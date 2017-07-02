@@ -1,16 +1,9 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <title>用户信息</title>
+        <title>Welcome page</title>
     </head>
     <body>
-    	<table border="1">
-    		<tr>
-				<th>用户Id</th>
-				<th>用户名</th>
-			</tr>
-			
-			
-		</table>
+		<h1>Welcome ${userName} !</h1>
     </body>
 </html>

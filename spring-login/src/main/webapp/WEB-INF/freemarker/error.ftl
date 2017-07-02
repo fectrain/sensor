@@ -1,20 +1,9 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <title>用户信息</title>
+        <title>Error page</title>
     </head>
     <body>
-    	<table border="1">
-    		<tr>
-				<th>用户Id</th>
-				<th>用户名</th>
-			</tr>
-			
-			<tr>
-				<th>用户Id</th>
-				<th>用户名</th>
-			</tr>
-			
-		</table>
+		<h1> your operation is incorrect! please login first!</h1>
     </body>
 </html>
